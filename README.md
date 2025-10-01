@@ -26,6 +26,13 @@ I enjoy designing distributed services, exploring low-level programming, and exp
 
 ---
 
+## 🌍 Open Source Contributions  
+
+- 🧩 [Rust Message Broker Library](#https://github.com/H-0-O/message_flow) — A custom Rust library for handling message brokers with macro-based handlers.  
+- 🔗 [Rust Orm For Mongodb](#https://github.com/H-0-O/spark-orm) — Spark-ORM is a high-performance, open-source Object-Relational Mapping (ORM) library designed specifically for MongoDB in Rust.  
+
+---
+
 ## 📂 Featured Projects  
 
 - 🚀 [PlayFab-like Service](#) — Authentication & game service platform backend built with **Rust + SeaORM**.  
