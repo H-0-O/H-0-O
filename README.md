@@ -44,8 +44,8 @@ I enjoy designing distributed services, exploring low-level programming, and exp
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-0-O&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-0-O&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=H-0-O&show_icons=true&theme=github_dark&exclude_repo=res-test,jh-challenge-" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-0-O&layout=compact&theme=github_dark&exclude_repo=res-test,jh-challenge-" alt="langs" />
 </p>
 
 ---
